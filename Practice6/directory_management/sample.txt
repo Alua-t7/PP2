@@ -1,0 +1,4 @@
+Hello, this is the first line.
+Python file handling practice.
+this line was appended later.
+Learning Python is fun!
