@@ -1,7 +1,7 @@
 class Ball:
     def __init__(self, screen_width, screen_height):
         self.radius = 25
-        self.speed  = 20
+        self.speed  = 60
         self.color  = (220, 30, 60)   # vivid red
         self.x = screen_width  // 2   # start at center
         self.y = screen_height // 2

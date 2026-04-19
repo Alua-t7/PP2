@@ -6,7 +6,12 @@ def main():
     pygame.init()
     screen = pygame.display.set_mode((600, 600))
     pygame.display.set_caption("Mickey Mouse Clock")
-    clock_obj = MickeyClock(screen, "images/mickey_hand.png")
+    clock_obj = MickeyClock(
+    screen,
+    "images/minute_hand.png",
+    "images/second_hand.png",
+    "images/background.png"
+)
     tick = pygame.time.Clock()
 
     while True:
