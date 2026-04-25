@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "username": "alice_j",
+    "email": "alice@gmail.com",
+    "birthday": "1990-04-12",
+    "group_name": "Friend",
+    "created_at": "2026-04-26T00:00:00",
+    "phones": "+1-555-0101 (mobile)"
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "username": "bob_s",
+    "email": "bob@company.com",
+    "birthday": "1985-07-23",
+    "group_name": "Work",
+    "created_at": "2026-04-26T00:00:00",
+    "phones": "+1-555-0202 (work)"
+  },
+  {
+    "id": 3,
+    "name": "Carol White",
+    "username": "carol_w",
+    "email": "carol@gmail.com",
+    "birthday": "1992-11-05",
+    "group_name": "Family",
+    "created_at": "2026-04-26T00:00:00",
+    "phones": "+1-555-0303 (home)"
+  },
+  {
+    "id": 4,
+    "name": "Dave Brown",
+    "username": "dave_b",
+    "email": "dave@outlook.com",
+    "birthday": "1988-02-14",
+    "group_name": "Other",
+    "created_at": "2026-04-26T00:00:00",
+    "phones": "+1-555-0404 (mobile)"
+  },
+  {
+    "id": 5,
+    "name": "Eve Adams",
+    "username": "eve_a",
+    "email": "eve@company.com",
+    "birthday": "1995-09-30",
+    "group_name": "Work",
+    "created_at": "2026-04-26T00:00:00",
+    "phones": "+1-555-0505 (work)"
+  }
+]
